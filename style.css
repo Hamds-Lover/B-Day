@@ -24,7 +24,7 @@ html {
 }
 
 .right {
-  background-color: rgb(61, 115, 154);
+  background-color: rgb(72, 158, 220);
   right: 0;
 }
 
@@ -41,7 +41,7 @@ html {
   font-family: "Nunito", sans-serif;
   font-size: 2.5rem;
   font-weight: 700;
-  background: linear-gradient(to right, rgb(61, 115, 154) 0%, rgb(61, 115, 154) 50%, pink 50%, pink 100%);
+  background: linear-gradient(to right, rgb(72, 158, 220) 0%, rgb(72, 158, 220) 50%, pink 50%, pink 100%);
   -webkit-background-clip: text;
   background-clip: text;
   color: transparent;
